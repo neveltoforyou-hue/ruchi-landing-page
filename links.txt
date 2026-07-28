@@ -18,7 +18,6 @@
 # https://example.com/mylongurl | My Fav Playlist
 # =====================================================================
 
-https://open.spotify.com/
+https://open.spotify.com/playlist/5JONxRDIhmyyHNwFHwItSj?si=09ffe8c14cda4384
 https://in.pinterest.com/pathakruchi187/
 https://www.instagram.com/its_ruchii17/
-https://www.amazon.in/
