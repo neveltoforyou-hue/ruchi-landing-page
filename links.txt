@@ -1,0 +1,24 @@
+# =====================================================================
+# HI RUCHI 👋 — this is the only file you'll ever need to open.
+#
+# TO ADD A LINK: paste it on its own line below. That's it.
+# TO REMOVE A LINK: delete its line.
+# TO REORDER: cut a line and paste it wherever you want.
+#
+# Lines starting with # (like this one) are just notes and get ignored.
+# Leave a blank line if you want, that's fine too.
+#
+# The page automatically figures out the icon and label from the link
+# (Spotify, Instagram, Amazon, Pinterest, etc all recognized). If it's
+# a site it doesn't recognize, it'll just show a generic link button —
+# still totally fine.
+#
+# Want a custom label instead of the auto one? Add " | " after the
+# link followed by whatever text you want, e.g:
+# https://example.com/mylongurl | My Fav Playlist
+# =====================================================================
+
+https://open.spotify.com/
+https://www.pinterest.com/
+https://www.instagram.com/
+https://www.amazon.in/
