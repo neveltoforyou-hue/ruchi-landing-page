@@ -94,7 +94,7 @@ function renderLinks(links) {
     a.href = link.url;
     a.target = "_blank";
     a.rel = "noopener noreferrer";
-    a.style.animationDelay = `${i * 70}ms`;
+    a.style.animationDelay = `${Math.min(i * 70, 500)}ms`;
 
     const emoji = document.createElement("span");
     emoji.className = "link-emoji";
